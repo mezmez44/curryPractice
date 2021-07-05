@@ -1,0 +1,26 @@
+
+t
+java:S1192"RDefine a constant instead of duplicating this literal "*****************" 3 times.(Ÿ‰û§şÿÿÿÿ8£€øñ¥/
+9
+java:S1643"Use a StringBuilder instead.(Ğ½›®8ÚÅğÈ/
+9
+java:S1643"Use a StringBuilder instead.(¥ã¼ú8¹¥˜Í¢/
+9
+java:S1643&"Use a StringBuilder instead.(¥ã¼ú8©ÄåÍ¢/
+>
+java:S16435"Use a StringBuilder instead.(™Œ†şÿÿÿÿ8¹Û–ò¥/
+9
+java:S16437"Use a StringBuilder instead.(Ú´åç8¹Û–ò¥/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şè¼Ã
+
+java:S1149+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘À¨Ûúÿÿÿÿ8°¥šÎ¢/
+|
+java:S1149,"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8Ÿ†’Î¢/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿æ¡şøÿÿÿÿ8ÚÅğÈ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‰û§şÿÿÿÿ8ì²÷ñ¥/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ĞÂ¦üÿÿÿÿ8®€øñ¥/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Ÿ‰û§şÿÿÿÿ8®€øñ¥/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(İÇÔ 8öÊøñ¥/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‰û§şÿÿÿÿ8ğ–ùñ¥/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÓº§8’Ìùñ¥/

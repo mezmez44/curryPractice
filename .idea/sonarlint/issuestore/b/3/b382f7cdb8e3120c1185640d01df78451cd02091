@@ -1,0 +1,11 @@
+
+H
+java:S1481"&Remove this unused "a" local variable.(¿Ñœãøÿÿÿÿ8‹ÎáŠ¡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ„Â8±ŞŠ¡/
+W
+java:S1854"5Remove this useless assignment to local variable "a".(¿Ñœãøÿÿÿÿ8‹ÎáŠ¡/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‚¹£í/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìà×I
+]	java:S125
+"<This block of commented-out lines of code should be removed.(í›ªÿÿÿÿÿ8¬ÏŞŠ¡/

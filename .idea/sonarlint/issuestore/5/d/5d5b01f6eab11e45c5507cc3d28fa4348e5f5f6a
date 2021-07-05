@@ -1,0 +1,21 @@
+
+e
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(şÑ¤şÿÿÿÿÿ
+u
+java:S1192"ZDefine a constant instead of duplicating this literal "*************************" 3 times.(öó¾ïøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¾Ç
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "read".(şÑ¤şÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(û˜£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ğ›Æÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø»Ö¬øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê¦ìÆüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ğ›Æÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜€áıÿÿÿÿ
+D
+java:S1481")Remove this unused "read" local variable.(şÑ¤şÿÿÿÿÿ

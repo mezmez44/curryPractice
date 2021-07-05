@@ -1,0 +1,18 @@
+
+f
+java:S1301#"KReplace this "switch" statement by "if" statements to increase readability.(óëÕŠùÿÿÿÿ
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(“ÌØ”
+_
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(’±§
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¾Ç
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ìí¢ƒşÿÿÿÿ
+s	java:S131#"YComplete cases by adding the missing enum constants or add a default case to this switch.(óëÕŠùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(®§¸©
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(½¤C
+S	java:S106("9Replace this use of System.out or System.err by a logger.(›’·Æşÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(›´÷—ıÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(†€éˆ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ıìç
+Q	java:S1254"<This block of commented-out lines of code should be removed.(†€éˆ

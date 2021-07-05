@@ -1,0 +1,14 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8””Ë¦¢/
+J
+java:S1481"(Remove this unused "str" local variable.(×¤Åíşÿÿÿÿ8ÍÕ»Ø¡/
+>
+java:S1643#"Use a StringBuilder instead.(Çí£ùÿÿÿÿ8””Ë¦¢/
+<
+java:S1659"Declare "k" on a separate line.(òß©¬8””Ë¦¢/
+Y
+java:S1854"7Remove this useless assignment to local variable "str".(×¤Åíşÿÿÿÿ8ÍÕ»Ø¡/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰Ïı¢
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8””Ë¦¢/

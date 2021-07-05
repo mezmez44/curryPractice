@@ -1,0 +1,22 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸õğø
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8˜Ÿ²òœ/
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÔÇŒŸ/
+E
+java:S1172#"(Remove this unused method parameter "z".(è€ô8Ä‡¢/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ùÙ·õüÿÿÿÿ8Ä‡¢/
+R
+java:S18540"5Remove this useless assignment to local variable "v".(¥Éù§8†ªÍÃ/
+R
+java:S1854."5Remove this useless assignment to local variable "h".(ŸßÄÒ8Í°³Ã/
+W
+java:S1854-"5Remove this useless assignment to local variable "x".(ÈÈÿÿÿÿÿÿ8ˆçËÃ/
+X	java:S125("<This block of commented-out lines of code should be removed.(¸²öü8ãò¾/
+H
+java:S1481-"&Remove this unused "x" local variable.(ÈÈÿÿÿÿÿÿ8ˆçËÃ/
+C
+java:S1481."&Remove this unused "h" local variable.(ŸßÄÒ8Í°³Ã/
+C
+java:S14810"&Remove this unused "v" local variable.(¥Éù§8†ªÍÃ/
